@@ -11,5 +11,6 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.restonic4:CitadelEngine:8238b52c28'
+    //implementation 'com.restonic4:CitadelEngine:8238b52c28'
+    implementation files('libs/CitadelEngine-0.7-DEV-3.jar')
 }
